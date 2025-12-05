@@ -1,0 +1,5 @@
+{
+  "name": "ZotFood",
+  "description": "A student-run tool for UCI students to turn pantry items into 10–15 minute, <$7 microwave-first meals.",
+  "requestFramePermissions": []
+}
